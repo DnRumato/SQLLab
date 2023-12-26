@@ -22,6 +22,8 @@
 
 Шаг 2:
 
+Была выбрана субд MySQL, как самая простая в установке
+
 CREATE TABLE Authors (
     AuthorID INT AUTO_INCREMENT PRIMARY KEY,
     AuthorName VARCHAR(100),
